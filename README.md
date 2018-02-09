@@ -10,7 +10,9 @@ This repository contains different architectures of language modelling models us
 ```shell
 $ git clone https://github.com/prajjwal1/language-modelling
 ```
-![p1](images/p1.jpg)
+
+## Predictions
+![p1](images/p1.png)
 
 ## Contributions
 Contributions are always welcome in the form of pull requests with explanatory comments.
