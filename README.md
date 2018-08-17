@@ -33,8 +33,5 @@ $ git clone https://github.com/prajjwal1/language-modelling
 Validation error rate (from the paper)
 ![ver](https://software.intel.com/sites/default/files/managed/95/b1/transfer-learning-in-natural-language-processing-figure-11.png)
 
-### Predictions
-![p1](images/p1.png)
-
 ### Contributions
 Contributions are always welcome in the form of pull requests with explanatory comments.
