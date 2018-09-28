@@ -3,11 +3,10 @@
 ## Transfer Learning in Langage Modelling (Classification)
 Implementation of [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) (Fast.ai)
 
-I've written a detailed blog on how ULMFit works and what problems are being solved on Intel IDZ, link [here](https://github.com/prajjwal1/language-modelling.git)
+I've written a detailed blog on how ULMFit works and what problems are being solved on Intel IDZ, link [here](https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing)
 
 ### Dataset 
 - Imdb
-I'm yet to try with other datasets
 ```
 $ python UMLift.py
 ```
